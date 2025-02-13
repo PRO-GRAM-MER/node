@@ -1,0 +1,1 @@
+"postgresql://frontend_masters_yzgj_user:uUst4QgXkqG3lYr7xdwF7XNgvmZljwGn@dpg-cumadcl2ng1s73frbqd0-a.oregon-postgres.render.com/frontend_masters_yzgj"
